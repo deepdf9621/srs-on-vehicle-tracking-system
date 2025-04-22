@@ -1,6 +1,6 @@
-# SRS: Vehicle Tracking System (PEL 300)
+# SRS: Vehicle Tracking System 
 
-This repository contains the Software Requirements Specification for our college project on a Vehicle Tracking System, submitted as part of the PEL 300 course.
+This repository contains the Software Requirements Specification for our college project on a Vehicle Tracking System, submitted as part of the principle of software egineering course.
 
 ## Team Members
 - Deepak Kumar
